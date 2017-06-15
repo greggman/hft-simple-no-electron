@@ -12,16 +12,16 @@ This one does not use electron. To run, follow these steps
 1.  install [node.js](https://nodejs.org)
 2.  clone this repo
 
-       git clone https://github.com/greggman/hft-simple-no-electron.git
+        git clone https://github.com/greggman/hft-simple-no-electron.git
 
 3.  install dependencies
 
-       cd hft-simple-no-electron
-       npm install
+        cd hft-simple-no-electron
+        npm install
 
 4.  run it
 
-       npm start
+        npm start
 
 5.  Open your browser to [`http://localhost:18679/game.html`](http://localhost:18679/game.html)
 6.  Open another browser to [`http://localhost:18679`](http://localhost:18679)
